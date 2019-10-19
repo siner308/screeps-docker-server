@@ -1,14 +1,17 @@
 # HOW TO START
 
-#### 1. install docker, docker-compose
-```bash
-apt-get install docker.io docker-compose
-```
+#### 1. Install docker, docker-compose
+>**docker**<br>
+>`Ubuntu` : https://docs.docker.com/install/linux/docker-ce/ubuntu/<br>
+>`CentOS` : https://docs.docker.com/install/linux/docker-ce/centos/
 
-#### 2. set steam api key
-open `init.sh` and input your `STEAM API KEY` (You can get API KEY from [here](https://steamcommunity.com/dev/apikey))
+>**docker-compose**<br>
+>https://docs.docker.com/compose/install/<br>
 
-#### 3. start screeps server
+#### 2. Set steam api key
+Open `init.sh` and Input your `STEAM API KEY` (You can get API KEY from [HERE](https://steamcommunity.com/dev/apikey))
+
+#### 3. Start screeps server
 ```bash
 docker-compose up -d --build
 ```
