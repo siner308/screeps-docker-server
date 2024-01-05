@@ -1,7 +1,8 @@
 repo_name: siner308/screeps-docker-server
 report_id: 2f772e0bc3a7219f25e2bfb47fa1e8e6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T10:25:52+00:00'
+timestamp: '2024-01-05T08:40:43+00:00'
 requested_by: siner308
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: Dockerfile
+  detection_source_url: https://github.com/siner308/screeps-docker-server/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: siner308
   last_updated_on: 2019-10-19 20:11:20.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/siner308/screeps-docker-server
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/siner308/screeps-docker-server
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -49,4 +52,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/siner308/screeps-docker-server
   detection_source: Repo Metadata
